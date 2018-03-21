@@ -32,6 +32,14 @@ ol, ul {
   width: 34px;
 }
 
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
 .square:focus {
   outline: none;
 }
