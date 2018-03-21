@@ -15,4 +15,3 @@ https://reactjs.org/tutorial/tutorial.html
 
 ## TODO
 * Add a tie conditon that shows when the came is tied/cat.
-* Do I include the package JSON files into source control?
