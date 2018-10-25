@@ -4,6 +4,7 @@ https://reactjs.org/tutorial/tutorial.html
 
 ## Changes from the Tutorial
 * I made a slight change to make the X's red and the O's blue.
+* Added a tie conditon that shows when the came is tied/cat.
 
 ## Getting Started
 1. Clone the git repo `git clone https://github.com/jlheard/tic-tac-toe-react.git`
@@ -14,4 +15,4 @@ https://reactjs.org/tutorial/tutorial.html
 6. Click on any square to start the game.
 
 ## TODO
-* Add a tie conditon that shows when the came is tied/cat.
+* Add a reset/new game button.
